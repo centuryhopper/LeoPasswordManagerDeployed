@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "LeoPasswordManagerUI",
   "resources": {
-    "hash": "sha256-Xby7WGfMZty3OqnKE/dwARR8Vv9rVtGEQ8IHlcEgsNI=",
+    "hash": "sha256-P/vWKggy3vSGmhPPe03bWjy0ZtrPObbojN93MwhNrws=",
     "jsModuleNative": {
       "dotnet.native.8.0.3.vukwvwsttm.js": "sha256-D4sYBYmDfH/YekgYRgX959/2RG6k28sJSHmcsn+iikk="
     },
@@ -19,7 +19,7 @@
     "assembly": {
       "Blazored.LocalStorage.wasm": "sha256-OaMAAd5n7ORfyur5e3QIyEVKJ76MKIvwbg7/icnnYcU=",
       "Blazored.Modal.wasm": "sha256-i2cBHftnHosZZLiNzjbDmWZEVt+U8D3Y1wqzUNX57b8=",
-      "LeoPasswordManagerUI.wasm": "sha256-QX8zYTBNBzNVCeneDONomJa6QDaWy/UDv9ry8x6HSLY=",
+      "LeoPasswordManagerUI.wasm": "sha256-gyZIe8QgvJ94Yi9SnZa1XhCnGvN6w9YcYuPngOzThPI=",
       "Microsoft.AspNetCore.Authorization.wasm": "sha256-z/Dz6WZKJVnUAu9zt+6kpbF/zbwfxwhDNskGSKWReb8=",
       "Microsoft.AspNetCore.Components.Authorization.wasm": "sha256-L3dira2G3Cttw+dUXx4/3twuG1w7Gy+d3wv5ifY+zwU=",
       "Microsoft.AspNetCore.Components.Forms.wasm": "sha256-KEEKq6dH9L1i0iL/1tPXaAuOIjW9WhBgLYjVwhV/ZxM=",
@@ -109,7 +109,6 @@
       "System.Xml.XDocument.wasm": "sha256-93tWNIJijDo+LV2ojnrPuvrYJlIij1MiSnUWesJo/YI="
     }
   },
-  "cacheBootResources": true,
   "debugLevel": 0,
   "linkerEnabled": true,
   "globalizationMode": "sharded",
